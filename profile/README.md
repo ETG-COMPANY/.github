@@ -33,7 +33,7 @@ TBD
 #### Access
 ```
 URL: http://208.109.215.200
-User: admin
+User: (ask the admin)
 Password: (ask the admin)
 ```
 
