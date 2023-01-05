@@ -34,7 +34,7 @@ TBD
 ```
 URL: http://208.109.215.200
 User: admin
-Password: hI$7u!mF6vaMCPIWAA%(rMdW66cxx)dU
+Password: (ask the admin)
 ```
 
 #### Jobs
