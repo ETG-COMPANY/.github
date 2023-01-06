@@ -10,7 +10,10 @@ The development process is based on a Kanban methodology, and planned in a board
 
 ### Process steps
 
-TBD
+1. Refine task
+2. Develop task
+3. Test
+4. Deploy
 
 ## Projects
 
@@ -57,5 +60,5 @@ This project is tested only in the developer's local and production environments
 
 #### Jobs
 
-* aente: job to build AENTE project and deploy it in the test environment (code pulled from the `HML` branch)
-* etg-website: job to deploy the ETG website project in the production environment (code pulled from the `main` branch)
+* **aente**: job to build AENTE project and deploy it in the test environment (code pulled from the `HML` branch)
+* **etg-website**: job to deploy the ETG website project in the production environment (code pulled from the `main` branch)
