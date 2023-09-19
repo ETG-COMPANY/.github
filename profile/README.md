@@ -39,7 +39,7 @@ Static pages for the institutional presentation of ETG. Available at [etg.compan
 
 #### Access
 ```
-URL: http://208.109.215.200
+URL: (ask the admin)
 User: (ask the admin)
 Password: (ask the admin)
 ```
@@ -49,7 +49,7 @@ Password: (ask the admin)
 #### AENTE
 
 ```
-URL: https://biobots.com.br
+URL: (ask the admin)
 User: (ask the admin)
 Password: (ask the admin)
 ```
