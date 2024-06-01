@@ -2,12 +2,6 @@
 
 ## Development process
 
-### Task management
-
-The development process is based on a Kanban methodology, and planned in a board as follows:
-
-* [Kanban development board (click here)](https://github.com/orgs/ETG-COMPANY/projects/1/views/1)
-
 ### Process steps
 
 1. Refine task
